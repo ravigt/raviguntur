@@ -9,10 +9,10 @@ I am exploring algorithmically and computationally simple techniques to solve so
 #### Detecting objects in Drone Images
 Drone images are interesting because they give you a top-down view of the world. Most pre-trained models built using line of sight capture do not work without extensive re-training. 
 
-[Checkout the Project](https://github.com/ravigt/Nautilus/tree/main/DroneVision).
+[Go to the Project](https://github.com/ravigt/Nautilus/tree/main/DroneVision).
 
 #### Detecting microsleep patterns
 This is another interesting field of work where there are many active researchers and enthusiasts working on various approaches. 
 
-[Checkout the Project](https://github.com/ravigt/Nautilus/tree/main/MicroSleep).
+[Go to the Project](https://github.com/ravigt/Nautilus/tree/main/MicroSleep).
  
