@@ -2,20 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!--- Text can be **bold**, _italic_, or ~~strikethrough~~. --->
 
-[Link to another page](./another-page.html).
+I am a big fan of small-data and low-cost machine learning. I am exploring algorithmically and computationally simple techniques to solve some detection problems involving inage signals. Here are a few projects that I am working on (outside of my regular work). Hopefully the community will find the code and proposed approaches useful. 
 
-There should be whitespace between paragraphs.
+#### Detecting objects in Drone Images
+Drone images are interesting because they give you a top-down view of the world. Most pre-trained models built using line of sight capture do not work without extensive re-training. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Checkout the Project](https://github.com/ravigt/Nautilus/tree/main/DroneVision).
 
-# Header 1
+#### Detecting microsleep patterns
+This is another interesting field of work where there are many active researchers and enthusiasts working on various approaches. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Checkout the Project](https://github.com/ravigt/Nautilus/tree/main/MicroSleep).
+ 
